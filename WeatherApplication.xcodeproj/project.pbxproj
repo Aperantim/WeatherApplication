@@ -18,6 +18,8 @@
 		2C22BED2240971BE000C1842 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C22BED1240971BE000C1842 /* APIManager.swift */; };
 		2C22BED424097BD9000C1842 /* ErrorManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C22BED324097BD9000C1842 /* ErrorManager.swift */; };
 		2C22BED7240D4C28000C1842 /* APIWeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C22BED6240D4C28000C1842 /* APIWeatherManager.swift */; };
+		2C22BED9240D6634000C1842 /* ParticlesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C22BED8240D6634000C1842 /* ParticlesView.swift */; };
+		2C22BEDB240D66B1000C1842 /* ParticleScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 2C22BEDA240D66B1000C1842 /* ParticleScene.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		2C22BED1240971BE000C1842 /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
 		2C22BED324097BD9000C1842 /* ErrorManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorManager.swift; sourceTree = "<group>"; };
 		2C22BED6240D4C28000C1842 /* APIWeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIWeatherManager.swift; sourceTree = "<group>"; };
+		2C22BED8240D6634000C1842 /* ParticlesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParticlesView.swift; sourceTree = "<group>"; };
+		2C22BEDA240D66B1000C1842 /* ParticleScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = ParticleScene.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,8 @@
 				2C22BEBD24096281000C1842 /* ViewController.swift */,
 				2C22BED524097C13000C1842 /* Weather model */,
 				2C22BEBF24096281000C1842 /* Main.storyboard */,
+				2C22BED8240D6634000C1842 /* ParticlesView.swift */,
+				2C22BEDA240D66B1000C1842 /* ParticleScene.sks */,
 				2C22BEC224096283000C1842 /* Assets.xcassets */,
 				2C22BEC424096283000C1842 /* LaunchScreen.storyboard */,
 				2C22BEC724096283000C1842 /* Info.plist */,
@@ -150,6 +156,7 @@
 			files = (
 				2C22BEC624096283000C1842 /* LaunchScreen.storyboard in Resources */,
 				2C22BEC324096283000C1842 /* Assets.xcassets in Resources */,
+				2C22BEDB240D66B1000C1842 /* ParticleScene.sks in Resources */,
 				2C22BEC124096281000C1842 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -163,6 +170,7 @@
 			files = (
 				2C22BED2240971BE000C1842 /* APIManager.swift in Sources */,
 				2C22BEBE24096281000C1842 /* ViewController.swift in Sources */,
+				2C22BED9240D6634000C1842 /* ParticlesView.swift in Sources */,
 				2C22BED424097BD9000C1842 /* ErrorManager.swift in Sources */,
 				2C22BEBA24096281000C1842 /* AppDelegate.swift in Sources */,
 				2C22BED0240963A9000C1842 /* WeatherIconManager.swift in Sources */,
